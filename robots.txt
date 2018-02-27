@@ -1,0 +1,7 @@
+# Robots.txt
+
+User-agent: *
+Disallow: /impressum.html
+Disallow: /img/
+
+Sitemap: https://raphaelmack.com/sitemap.xml
