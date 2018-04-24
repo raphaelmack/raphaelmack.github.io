@@ -625,6 +625,11 @@ nav#footer p{
 	font-size: 18px; 
 	color: #e3e3e3;
 }
+#footer a.impressumlink{
+	font-size: 12px; 
+	color:#FFA532; 
+	font-size: 12px;
+}
 .unselectable {
     -webkit-touch-callout: none;
     -webkit-user-select: none;
