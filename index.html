@@ -64,6 +64,7 @@
 			function gaOptout() {
 			  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
 			  window[disableStr] = true;
+			  alert('Google Analytics wurde deaktiviert.'); 
 			}
 		</script>
 
@@ -145,7 +146,7 @@
 		 <nav id="footer">
 		    <br \><br \><br \><br \> 
 		    <a href="impressum.html" data-toggle="modal" data-target="#impressum">
-		       Impressum 
+		       Impressum und Datenschutzerklärung
 		    </a>
 
 		    <div class="modal fade" id="impressum" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
