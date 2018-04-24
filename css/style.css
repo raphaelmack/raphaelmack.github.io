@@ -622,9 +622,8 @@ nav#footer p{
 	margin-top: 10px;
 }
 #footer a{
-	font-size: 12px; 
-	color:#FFA532; 
-	font-size: 12px;
+	font-size: 18px; 
+	color: #e3e3e3;
 }
 .unselectable {
     -webkit-touch-callout: none;
