@@ -3,5 +3,6 @@
 User-agent: *
 Disallow: /impressum.html
 Disallow: /img/
+Disallow: /datenschutzerklaerung.html
 
 Sitemap: https://raphaelmack.com/sitemap.xml
