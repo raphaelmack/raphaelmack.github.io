@@ -216,7 +216,7 @@ font-weight: 900;
 }
 
 .color{
-	color: #fcac45;
+	color: #337ab7;/*#fcac45;*/
 }
 
 a.fa.fa-angle-down {
@@ -627,7 +627,7 @@ nav#footer p{
 }
 #footer a.impressumlink{
 	font-size: 12px; 
-	color:#FFA532; 
+	color: grey;/*#FFA532; */
 	font-size: 12px;
 }
 .unselectable {
