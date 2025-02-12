@@ -4,16 +4,16 @@
       	xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"> 
 	<url>
 	  <loc>https://www.raphaelmack.com/</loc>
-	  <lastmod>2018-02-20</lastmod>
+	  <lastmod>2025-02-12</lastmod>
 	</url>
 	<url>
 	  <loc>https://www.raphaelmack.com/impressum.html</loc>
 	  <changefreq>yearly</changefreq>
-	  <lastmod>2018-02-20</lastmod>
+	  <lastmod>2025-02-12</lastmod>
 	</url>
 	<url>
 	  <loc>https://www.raphaelmack.com/privacypolicy.html</loc>
 	  <changefreq>yearly</changefreq>
-	  <lastmod>2018-02-20</lastmod>
+	  <lastmod>2025-02-12</lastmod>
 	</url>
 </urlset>
