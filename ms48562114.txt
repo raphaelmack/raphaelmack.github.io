@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Überprüfungsdatei für Domänen-Eigentümerschaft für Microsoft 365-Position im Website-Root",
-  "Domain": "raphaelmack.com",
-  "Id": "459fc97e-7a99-425c-a757-cc7db58c836d"
-}
